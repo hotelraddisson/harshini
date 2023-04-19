@@ -4,7 +4,7 @@
 [Readme.txt]
  https://bootstrapmade.com/restaurantly-restaurant-template/
  
- Dashboard link- https://public.tableau.com/views/Book1_16817206559480/RadissonHospitalityAnalysisDashboard?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
+ Dashboard link- https://public.tableau.com/views/Dashboard_16818961131720/RadissonHospitalityAnalysisDashboard?:language=en-US&:display_count=n&:origin=viz_share_link
  
  Story Link- https://public.tableau.com/views/story_16817276690300/Radissonanalysisstory?:language=en-US&publish=yes&:display_count=n&:origin=viz_share_link
  
